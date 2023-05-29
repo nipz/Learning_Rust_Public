@@ -39,5 +39,12 @@ fn main() {
 
     //learning the positional arguement
     println!("\n  I am doing {2},from {1} years and i {0}", "like", 20, "programming");
+
+    //learning named arguments
+    println!("{language} is a system programming language which is cool to {activity} in", language = "Rust", activity = "code" );
+    
+    //learning how to print simple math 
+    println!(" the sumation of 25 + 10 = {}", 25 + 10 );
+
 }
  
