@@ -46,5 +46,9 @@ fn main() {
     //learning how to print simple math 
     println!(" the sumation of 25 + 10 = {}", 25 + 10 );
 
+    // variables in rust // 
+
+    Let x: i32 = 15;
+
 }
  
